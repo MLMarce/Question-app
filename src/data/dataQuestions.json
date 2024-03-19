@@ -1,0 +1,233 @@
+[
+    {
+      "id": 0,
+      "question": "What is the capital of Mongolia?",
+      "responses": [
+        {"text": "Ulaanbaatar", "isCorrect": true},
+        {"text": "Astana", "isCorrect": false},
+        {"text": "Kiev", "isCorrect": false},
+        {"text": "Bishkek", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 1,
+      "question": "In what year was the League of Nations founded?",
+      "responses": [
+        {"text": "1919", "isCorrect": true},
+        {"text": "1925", "isCorrect": false},
+        {"text": "1933", "isCorrect": false},
+        {"text": "1940", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What is the melting temperature of tungsten?",
+      "responses": [
+        {"text": "3,422 °C", "isCorrect": true},
+        {"text": "2,550 °C", "isCorrect": false},
+        {"text": "4,950 °C", "isCorrect": false},
+        {"text": "1,800 °C", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Who wrote 'The Phenomenology of Spirit'?",
+      "responses": [
+        {"text": "Friedrich Nietzsche", "isCorrect": false},
+        {"text": "Immanuel Kant", "isCorrect": false},
+        {"text": "Georg Wilhelm Friedrich Hegel", "isCorrect": true},
+        {"text": "Jean-Paul Sartre", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What is the most abundant component in the Earth's crust?",
+      "responses": [
+        {"text": "Silicon", "isCorrect": false},
+        {"text": "Oxygen", "isCorrect": true},
+        {"text": "Aluminum", "isCorrect": false},
+        {"text": "Calcium", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "In what year was the New York Stock Exchange founded?",
+      "responses": [
+        {"text": "1789", "isCorrect": false},
+        {"text": "1792", "isCorrect": true},
+        {"text": "1801", "isCorrect": false},
+        {"text": "1810", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What is the escape velocity of Earth?",
+      "responses": [
+        {"text": "10.4 km/s", "isCorrect": false},
+        {"text": "11.2 km/s", "isCorrect": false},
+        {"text": "12.1 km/s", "isCorrect": false},
+        {"text": "Escape velocity", "isCorrect": true}
+      ]
+    },
+    {
+      "id": 7,
+      "question": "In what year did the Industrial Revolution take place?",
+      "responses": [
+        {"text": "1700", "isCorrect": false},
+        {"text": "1750", "isCorrect": false},
+        {"text": "1800", "isCorrect": true},
+        {"text": "1850", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What is the process of energy production in the sun?",
+      "responses": [
+        {"text": "Nuclear fusion", "isCorrect": true},
+        {"text": "Nuclear fission", "isCorrect": false},
+        {"text": "Chemical reaction", "isCorrect": false},
+        {"text": "Combustion", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 9,
+      "question": "What is the longest play written by William Shakespeare?",
+      "responses": [
+        {"text": "Julio Cesar", "isCorrect": false},
+        {"text": "Othello", "isCorrect": false},
+        {"text": "Romeo and Juliet", "isCorrect": false},
+        {"text": "Hamlet", "isCorrect": true}
+      ]
+    },
+    {
+      "id": 10,
+      "question": "In what year did the French Revolution take place?",
+      "responses": [
+        {"text": "1776", "isCorrect": false},
+        {"text": "1789", "isCorrect": true},
+        {"text": "1804", "isCorrect": false},
+        {"text": "1820", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 11,
+      "question": "What is the basic unit of life?",
+      "responses": [
+        {"text": "Cell", "isCorrect": true},
+        {"text": "Atom", "isCorrect": false},
+        {"text": "Molecule", "isCorrect": false},
+        {"text": "Protein", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Who discovered penicillin?",
+      "responses": [
+        {"text": "Marie Curie", "isCorrect": false},
+        {"text": "Alexander Fleming", "isCorrect": true},
+        {"text": "Louis Pasteur", "isCorrect": false},
+        {"text": "Robert Koch", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 13,
+      "question": "What is the longest bone in the human body?",
+      "responses": [
+        {"text": "Femur", "isCorrect": true},
+        {"text": "Humerus", "isCorrect": false},
+        {"text": "Tibia", "isCorrect": false},
+        {"text": "Radius", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 14,
+      "question": "In what year did the Russian Revolution take place?",
+      "responses": [
+        {"text": "1917", "isCorrect": true},
+        {"text": "1927", "isCorrect": false},
+        {"text": "1937", "isCorrect": false},
+        {"text": "1947", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 15,
+      "question": "What is the main component of the air we breathe?",
+      "responses": [
+        {"text": "Nitrogen", "isCorrect": true},
+        {"text": "Oxygen", "isCorrect": false},
+        {"text": "Carbon dioxide", "isCorrect": false},
+        {"text": "Argon", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 16,
+      "question": "In what year did Brazil gain independence?",
+      "responses": [
+        {"text": "1808", "isCorrect": false},
+        {"text": "1822", "isCorrect": true},
+        {"text": "1835", "isCorrect": false},
+        {"text": "1850", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 17,
+      "question": "What is the largest organ in the human body?",
+      "responses": [
+        {"text": "Brain", "isCorrect": false},
+        {"text": "Liver", "isCorrect": false},
+        {"text": "Skin", "isCorrect": true},
+        {"text": "Heart", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Who was the first President of the United States?",
+      "responses": [
+        {"text": "Thomas Jefferson", "isCorrect": false},
+        {"text": "John Adams", "isCorrect": false},
+        {"text": "George Washington", "isCorrect": true},
+        {"text": "James Madison", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 19,
+      "question": "What is the process of photosynthesis?",
+      "responses": [
+        {"text": "CO2 + H2O + Energy -> C6H12O6 + O2", "isCorrect": true},
+        {"text": "C6H12O6 + O2 -> CO2 + H2O + Energy", "isCorrect": false},
+        {"text": "N2 + O2 -> NO2", "isCorrect": false},
+        {"text": "H2O + CO2 -> O2 + C6H12O6", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 20,
+      "question": "What is the largest country in the world?",
+      "responses": [
+        {"text": "United States", "isCorrect": false},
+        {"text": "Russia", "isCorrect": true},
+        {"text": "China", "isCorrect": false},
+        {"text": "Canada", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 21,
+      "question": "What is the chemical symbol for gold?",
+      "responses": [
+        {"text": "O", "isCorrect": false},
+        {"text": "Au", "isCorrect": true},
+        {"text": "Ag", "isCorrect": false},
+        {"text": "Fe", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 22,
+      "question": "In what year did Mexico gain independence?",
+      "responses": [
+        {"text": "1808", "isCorrect": false},
+        {"text": "1810", "isCorrect": true},
+        {"text": "1821", "isCorrect": false},
+        {"text": "1835", "isCorrect": false}
+      ]
+    }
+  ]
+  
